@@ -1,0 +1,11 @@
+C:\Users\hansj\Source\Repos\FiscaalExperiment1\FiscaalExperiment1\bin\Debug\netcoreapp2.1\FiscaalExperiment1.deps.json
+C:\Users\hansj\Source\Repos\FiscaalExperiment1\FiscaalExperiment1\bin\Debug\netcoreapp2.1\FiscaalExperiment1.runtimeconfig.json
+C:\Users\hansj\Source\Repos\FiscaalExperiment1\FiscaalExperiment1\bin\Debug\netcoreapp2.1\FiscaalExperiment1.runtimeconfig.dev.json
+C:\Users\hansj\Source\Repos\FiscaalExperiment1\FiscaalExperiment1\bin\Debug\netcoreapp2.1\FiscaalExperiment1.dll
+C:\Users\hansj\Source\Repos\FiscaalExperiment1\FiscaalExperiment1\bin\Debug\netcoreapp2.1\FiscaalExperiment1.pdb
+C:\Users\hansj\Source\Repos\FiscaalExperiment1\FiscaalExperiment1\obj\Debug\netcoreapp2.1\FiscaalExperiment1.csprojAssemblyReference.cache
+C:\Users\hansj\Source\Repos\FiscaalExperiment1\FiscaalExperiment1\obj\Debug\netcoreapp2.1\FiscaalExperiment1.csproj.CoreCompileInputs.cache
+C:\Users\hansj\Source\Repos\FiscaalExperiment1\FiscaalExperiment1\obj\Debug\netcoreapp2.1\FiscaalExperiment1.AssemblyInfoInputs.cache
+C:\Users\hansj\Source\Repos\FiscaalExperiment1\FiscaalExperiment1\obj\Debug\netcoreapp2.1\FiscaalExperiment1.AssemblyInfo.cs
+C:\Users\hansj\Source\Repos\FiscaalExperiment1\FiscaalExperiment1\obj\Debug\netcoreapp2.1\FiscaalExperiment1.dll
+C:\Users\hansj\Source\Repos\FiscaalExperiment1\FiscaalExperiment1\obj\Debug\netcoreapp2.1\FiscaalExperiment1.pdb

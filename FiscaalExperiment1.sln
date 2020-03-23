@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiscaalExperiment1", "FiscaalExperiment1\FiscaalExperiment1.csproj", "{2B6CFF1D-F5EB-42B8-BEA9-03088F5C022B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fiscaal", "Fiscaal\Fiscaal.csproj", "{52B78F97-8DA8-45EA-A70B-68A3463F0BA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B6CFF1D-F5EB-42B8-BEA9-03088F5C022B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B6CFF1D-F5EB-42B8-BEA9-03088F5C022B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B6CFF1D-F5EB-42B8-BEA9-03088F5C022B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B6CFF1D-F5EB-42B8-BEA9-03088F5C022B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52B78F97-8DA8-45EA-A70B-68A3463F0BA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52B78F97-8DA8-45EA-A70B-68A3463F0BA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52B78F97-8DA8-45EA-A70B-68A3463F0BA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52B78F97-8DA8-45EA-A70B-68A3463F0BA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0556CFC3-1A1E-471F-9E9D-EC122C749945}
+	EndGlobalSection
+EndGlobal

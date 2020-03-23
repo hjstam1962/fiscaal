@@ -1,0 +1,9 @@
+C:\Users\hansj\Source\Repos\FiscaalExperiment1\Fiscaal\bin\Debug\netstandard2.0\Fiscaal.deps.json
+C:\Users\hansj\Source\Repos\FiscaalExperiment1\Fiscaal\bin\Debug\netstandard2.0\Fiscaal.dll
+C:\Users\hansj\Source\Repos\FiscaalExperiment1\Fiscaal\bin\Debug\netstandard2.0\Fiscaal.pdb
+C:\Users\hansj\Source\Repos\FiscaalExperiment1\Fiscaal\obj\Debug\netstandard2.0\Fiscaal.csprojAssemblyReference.cache
+C:\Users\hansj\Source\Repos\FiscaalExperiment1\Fiscaal\obj\Debug\netstandard2.0\Fiscaal.csproj.CoreCompileInputs.cache
+C:\Users\hansj\Source\Repos\FiscaalExperiment1\Fiscaal\obj\Debug\netstandard2.0\Fiscaal.AssemblyInfoInputs.cache
+C:\Users\hansj\Source\Repos\FiscaalExperiment1\Fiscaal\obj\Debug\netstandard2.0\Fiscaal.AssemblyInfo.cs
+C:\Users\hansj\Source\Repos\FiscaalExperiment1\Fiscaal\obj\Debug\netstandard2.0\Fiscaal.dll
+C:\Users\hansj\Source\Repos\FiscaalExperiment1\Fiscaal\obj\Debug\netstandard2.0\Fiscaal.pdb
